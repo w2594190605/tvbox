@@ -1,6 +1,6 @@
 {
-	"spider": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json/",
-	"wallpaper": "http://刚刚.live/图",
+	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json/",
+	
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -10,7 +10,7 @@
 	}],
 	"sites": [
 	    
-	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
 	    {
 			"key": "csp_77",
 			"name": "💓酷云七七（推荐）",
@@ -303,16 +303,7 @@
 			"filterable": 1,
 			"ext": "http://121.205.88.178:8090/xgapp.php/v2/"
 		},
-		{
-			"key": "csp_biubiu_骚火电影",
-			"name": "🔥骚火电影",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://刚刚.live/jar/tvjs/shdy.json"
-		}, {
+		 {
 			"key": "csp_biubiu_厂长资源-蓝光",
 			"name": "🏗️厂长蓝光",
 			"type": 3,
@@ -320,7 +311,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, 
 		{
 			"key": "csp_biubiu_影视工厂",
@@ -330,18 +321,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
-		{
-			"key": "csp_biubiu_555电影",
-			"name": "5️⃣️555电影",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://刚刚.live/jar/tvjs/555.json"
-		},
+		
 		{
 			"key": "诺讯资源",
 			"name": "📌诺讯资源(官)",
@@ -365,7 +347,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, 
 
 		{
@@ -376,7 +358,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://刚刚.live/jar/tvjs/qiumi.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "csp_biubiu_斗鱼",
 			"name": "🐬斗鱼直播",
@@ -385,7 +367,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "csp_xpath_huya",
 			"name": "🐯虎牙直播",
@@ -394,7 +376,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "csp_xpath_kuqimv",
 			"name": "🎤经典MV",
@@ -403,7 +385,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_xpath_jbb",
@@ -413,7 +395,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_xpath_naifeiorg",
@@ -423,7 +405,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_xpath_yanetflix",
@@ -433,7 +415,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_biubiu_真不卡cerrd",
@@ -443,7 +425,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "csp_biubiu_特狗影视",
 			"name": "🐶特狗影视",
@@ -461,13 +443,13 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "考拉直链",
 			"name": "🐨考拉TV",
 			"type": 1,
-			"api": "https://ikaola.tv/api.php/provide/vod/",
+			"api": "https://ghproxy.com/https://ikaola.tv/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -479,7 +461,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://ttzmz.net/api.php/v1.vod"
+			"ext": "https://ghproxy.com/http://ttzmz.net/api.php/v1.vod"
 		},
 		{
 			"key": "csp_xpath_meiju56",
@@ -489,7 +471,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_XPath_bidiys",
@@ -499,7 +481,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "小熊",
@@ -517,7 +499,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_biubiu_voflix",
@@ -527,7 +509,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_biubiu_cupfox",
@@ -537,7 +519,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_biubiu_yekong",
@@ -547,7 +529,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_appysv2_M2_暖光影视",
@@ -590,7 +572,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "影图",
@@ -618,7 +600,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "csp_biubiu_OmoFun动漫",
 			"name": "🧚OmoFun动漫",
@@ -627,7 +609,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "csp_biubiu_森屋新番",
 			"name": "🎍森屋新番",
@@ -636,7 +618,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
@@ -646,15 +628,15 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		},
-		{"key":"演唱会","name":"🅱️演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/演唱会.php"},
-		{"key":"歌曲","name":"🅱️歌曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/歌曲.php"},
-		{"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/戏曲.php"},
-		{"key":"幼儿乐园","name":"📚幼儿乐园（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/幼儿乐园.php"},
-		{"key":"少儿教育","name":"📚少儿教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/少儿教育.php"},
-		{"key":"小学课堂","name":"📚小学课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/小学课堂.php"},
-		{"key":"初中课堂","name":"📚初中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/初中课堂.php"},
+		{"key":"演唱会","name":"🅱️演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+		{"key":"歌曲","name":"🅱️歌曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+		{"key":"戏曲","name":"🅱️戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+		{"key":"幼儿乐园","name":"📚幼儿乐园（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+		{"key":"少儿教育","name":"📚少儿教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+		{"key":"小学课堂","name":"📚小学课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
+		{"key":"初中课堂","name":"📚初中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"},
 		{"key":"高中教育","name":"📚高中课堂（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/wa/高中课堂.php"},
 		{
 			"key": "AliPS",
@@ -664,7 +646,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "zhaozy",
 			"name": "🗂️找资源(仅搜索)",
@@ -673,7 +655,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
@@ -682,7 +664,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "3a49cf29cf20410997247c6eb4509be9"
+			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/w2594190605/tvbox/main/gg.json"
 		}, {
 			"key": "更多",
 			"name": "📢失效反馈Q群：493192284",
