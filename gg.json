@@ -292,13 +292,7 @@
 		},
 		{"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 		
-		
-		
-		 {
-		"name": "OKx交换机和付款单据",
-		"type": 0,
-		"url": "http://www.haozy.cc/?url="
-	},
+
 		
 		{
 			"key": "csp_AppYsV2",
