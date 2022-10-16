@@ -4,7 +4,7 @@
 
 
 {
-    "spider":"https://agit.ai/pigeon568/www5566/raw/branch/master/XC0917.jar",
+    "spider":"https://github.com/w2594190605/tvbox/blob/main/XC0917.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
