@@ -21,7 +21,7 @@
 			"filterable": 1
 		},
 		
-		 "key": "含羞草",
+		{ "key": "含羞草",
       "name": "含羞草",
       "type": 0,
       "api": "https://www.haozy.cc/api.php/provide/vod/at/xml/",
