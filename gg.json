@@ -21,17 +21,23 @@
 			"filterable": 1
 		},
 		
-		{
-      "key": "含羞草",
+		 "key": "含羞草",
       "name": "含羞草",
-      "type": 1,
-      "api": "https://www.haozy.cc//api.php/provide/vod/",
-     
-     "searchable": 1,
+      "type": 0,
+      "api": "https://www.haozy.cc/api.php/provide/vod/at/xml/",
+      "playUrl": "https://www.haozy.cc/",
+      "searchable": 1,
       "quickSearch": 1,
-	"filterable": 1,		
-      "categories": ["电视剧",  "其他片"]
-		},
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
 
    
 		
