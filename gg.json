@@ -1,5 +1,5 @@
 {
-	"spider": "https://github.com/w2594190605/fuzhi/blob/main/2.jarr/18181.jar",
+	"spider": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/2.jarr/18181.jar",
 	
 	"lives": [{
 		"group": "redirect",
@@ -24,7 +24,7 @@
 		{ "key": "含羞草",
       "name": "含羞草",
       "type": 0,
-      "api": "https://www.haozy.cc/api.php/provide/vod/at/xml/",
+      "api": "https://www.js558.top/?id=46916288api.php/provide/vod/at/xml/",
       "playUrl": "https://www.haozy.cc/",
       "searchable": 1,
       "quickSearch": 1,
