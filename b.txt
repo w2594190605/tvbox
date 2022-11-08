@@ -1,5 +1,5 @@
 { 
-  "spider":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/de/Jar/1008.jar",
+  "spider":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/2.jarr/18181.jar",
 "wallpaper" : "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/de/bg.png",
 "lives" : [
  {"group" : "redirect","channels" : [
