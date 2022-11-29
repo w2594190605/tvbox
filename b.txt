@@ -3,7 +3,7 @@
 "wallpaper" : "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/de/bg.png",
 "lives" : [
  {"group" : "redirect","channels" : [
- {"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3cyNTk0MTkwNjA1L2Z1emhpL2Jsb2IvbWFpbi8lRTglODclQUElRTUlQjclQjElRTclOTQlQTglMjAudHh0"]
+ {"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3cyNTk0MTkwNjA1L2Z1emhpL2Jsb2IvbWFpbi8lRTglODclQUElRTUlQjclQjElRTclOTQlQTglMjAudHh0CgkJCQkJ"]
  }]
  }],
   "sites":[
