@@ -266,7 +266,7 @@
       "key": "搜狐资源",
       "name": "📺︎┃狐源┃1080P",
       "type": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -333,7 +333,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
-      "jar":"http://oneone.dynv6.net:9999/viplib/fty0122.jar"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fty0122.jar"
     },
     {
       "key": "YiSo",
@@ -344,7 +344,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "jar":"http://oneone.dynv6.net:9999/viplib/fty0122.jar"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fty0122.jar"
     },
     {
       "key": "Zhaozy",
@@ -355,7 +355,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码",
-      "jar":"http://oneone.dynv6.net:9999/viplib/fty0122.jar"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fty0122.jar"
     },
     {
       "key": "PanSou",
@@ -366,7 +366,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "jar":"http://oneone.dynv6.net:9999/viplib/fty0122.jar"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fty0122.jar"
     },
     {
       "key": "csp_XYQHiker_奇趣影视",
@@ -376,8 +376,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/奇趣影视.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/奇趣影视.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "在线之家",
@@ -386,7 +386,7 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
       "ext": "https://www.zxzjhd.com/"
     },
@@ -394,19 +394,19 @@
       "key": "drpy_js_优酷",
       "name": "📺︎┃油库┃1080P",
       "type": 3,
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/youkudachang.js"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/youkudachang.js"
     },
     {
       "key": "Xinsj",
       "name": "📺︎┃视觉┃1080P",
       "type": "3",
       "api": "csp_Xinsj",
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
@@ -416,12 +416,12 @@
       "key": "利奥影院",
       "name": "📺︎┃厉奥┃1080P",
       "type": 3,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/利奥影院.json"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/利奥影院.json"
     },
     {
       "key": "Kuaikan",
@@ -431,7 +431,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_F7好看剧",
@@ -441,8 +441,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/aikanyngyuan.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/aikanyngyuan.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
@@ -452,8 +452,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/锐行加速影院.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/锐行加速影院.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_秋霞影视",
@@ -463,14 +463,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/qiuxia.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/qiuxia.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "非凡",
       "name": "📺︎┃非凡┃1080P",
       "type": 0,
-      "jar":"http://oneone.dynv6.net:9999/viplib/fm0603.jar",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fm0603.jar",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
@@ -514,8 +514,8 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/乐猪.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/乐猪.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -525,8 +525,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/农民影视.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/农民影视.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_兄弟影视",
@@ -536,8 +536,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/兄弟影视.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/兄弟影视.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
@@ -547,8 +547,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/电影牛影院.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/电影牛影院.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "蓝光影院",
@@ -558,8 +558,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/languang.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/languang.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_奇优",
@@ -569,8 +569,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/奇优影院.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/奇优影院.json"
     },
 
     {
@@ -580,7 +580,7 @@
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "categories": [
         "国产剧",
         "战争片",
@@ -595,7 +595,7 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "categories": [
         "国产剧",
         "香港剧",
@@ -610,7 +610,7 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "categories": [
         "大陆剧",
         "港澳剧",
@@ -624,7 +624,7 @@
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "quickSearch": 1
     },
     {
@@ -633,7 +633,7 @@
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
       "api": "https://xkanzy10.com/api.php/provide/vod"
     },
@@ -643,7 +643,7 @@
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "quickSearch": 1,
       "playUrl": "",
       "categories": [
@@ -659,7 +659,7 @@
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "quickSearch": 1,
       "playUrl": "",
       "categories": [
@@ -673,12 +673,12 @@
       "key": "腾讯资源",
       "name": "📺︎┃讯影┃1080P",
       "type": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "categories": [
         "国产剧",
         "韩国剧",
@@ -706,7 +706,7 @@
       "key": "芒果资源",
       "name": "📺︎┃果影┃1080P",
       "type": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -738,7 +738,7 @@
       "key": "爱奇艺资源",
       "name": "️📺︎┃艺云┃1080P",
       "type": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -770,7 +770,7 @@
       "key": "优酷资源",
       "name": "📺︎┃库云┃1080P",
       "type": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -803,7 +803,7 @@
       "key": "莱米",
       "name": "📺︎┃莱米┃1080P",
       "type": 3,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xbpq.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xbpq.jar",
       "api": "csp_XBPQ",
       "playerType": "2",
       "ext": {
@@ -836,8 +836,8 @@
       "key": "js 77",
       "name": "📺︎┃酷云┃1080P",
       "type": 3,
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
-      "ext": "http://oneone.dynv6.net:9999/viplib/酷云77.js",
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/酷云77.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -851,8 +851,8 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/蘑菇.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/蘑菇.json"
     },
     {
       "key": "XBPQ_星辰",
@@ -862,8 +862,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/星辰影视.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/星辰影视.json"
     },
     {
       "key": "XBPQ_九八",
@@ -873,8 +873,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/98影视.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/98影视.json"
     },
     {
       "key": "csp_FreeOK",
@@ -884,8 +884,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/free.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/free.json"
     },
     {
       "key": "csp_YQKan",
@@ -895,7 +895,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
     },
 
     {
@@ -906,8 +906,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/胖虎.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/胖虎.json"
     },
     {
       "key": "csp_Btwtoo",
@@ -926,7 +926,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/达达龟.json"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/达达龟.json"
     },
     {
       "key": "NanGua",
@@ -937,7 +937,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-       "jar": "http://oneone.dynv6.net:9999/viplib/yydf"
+       "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "快影",
@@ -949,14 +949,14 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://iosa.xn--654a.cc/api.php/app/",
-      "jar": "http://oneone.dynv6.net:9999/viplib/yydf"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "畅梦",
       "name": "📺┃畅梦┃1080P",
       "type": 3,
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
-      "ext": "http://oneone.dynv6.net:9999/viplib/changmeng.js"
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/changmeng.js"
     },
     {
       "key": "业余采集A",
@@ -973,7 +973,7 @@
         "动漫",
         "综艺"
       ],
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "业余采集B",
@@ -991,7 +991,7 @@
         "综艺",
         "体育赛事"
       ],
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "橘子",
@@ -1002,7 +1002,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "繁星",
@@ -1014,7 +1014,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW",
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "快影",
@@ -1026,7 +1026,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://iosa.xn--654a.cc/api.php/app/",
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf"
     },
     {
       "key": "csp_XBPQ_aoaotv",
@@ -1035,7 +1035,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
       "ext": {
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
@@ -1050,7 +1050,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "ext": "https://www.maolvys.com/"
     },
     {
@@ -1061,16 +1061,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "ext": "http://rzys.xyz"
     },
     {
       "key": "畅梦",
       "name": "📺┃梦云┃1080P",
       "type": 3,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
-      "ext": "http://oneone.dynv6.net:9999/viplib/changmeng.js"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/changmeng.js"
     },
     {
       "key": "4khdr_ali",
@@ -1082,17 +1082,17 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/业余影视/阿里/token.txt",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xry.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xry.jar"
     },
     {
       "key": "♻️dr_低端♻️",
       "name": "📺┃低端┃1080P",
       "type": 3,
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/ddys.js"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/ddys.js"
     },
     {
       "key": "49zy",
@@ -1143,17 +1143,17 @@
       "key": "drpy_js_优酷1",
       "name": "📺┃酷一┃1080P",
       "type": 3,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
-      "ext": "http://oneone.dynv6.net:9999/viplib/youku.js"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/youku.js"
     },
     {
       "key": "腾讯2",
       "name": "📺┃讯二┃1080P",
       "type": 3,
-      "jar": "http://oneone.dynv6.net:9999/viplib/fan.jar",
-      "api": "http://oneone.dynv6.net:9999/viplib/drpy2.min.js",
-      "ext": "http://oneone.dynv6.net:9999/viplib/tengxun.js"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/fan.jar",
+      "api": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/tengxun.js"
     },
     {
       "key": "Czsapp",
@@ -1163,7 +1163,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "changeable": 1,
       "ext": "https://www.czzy88.com/"
     },
@@ -1194,8 +1194,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/dyg.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/dyg.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_Mp4Mov",
@@ -1205,7 +1205,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_New6v",
@@ -1216,7 +1216,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_SeedHub",
@@ -1227,7 +1227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_BLSGod",
@@ -1238,7 +1238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_Xunlei8",
@@ -1249,7 +1249,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHikerAL_4KHDR",
@@ -1260,8 +1260,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/4KHDR.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/4KHDR.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_电影港",
@@ -1271,8 +1271,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/电影港磁力.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/电影港磁力.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_BT天堂",
@@ -1282,8 +1282,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/BT天堂.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/BT天堂.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_极影网",
@@ -1293,8 +1293,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/极影网.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/极影网.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_XYQHiker_高清MP4",
@@ -1304,8 +1304,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/高清MP4.json",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/高清MP4.json",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "短剧网",
@@ -1315,7 +1315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "csp_AppYsV2_Mxone",
@@ -1326,7 +1326,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/",
-      "jar": "http://oneone.dynv6.net:9999/viplib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "csp_Bili短剧",
@@ -1336,15 +1336,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "http://oneone.dynv6.net:9999/viplib/Bili短剧.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/Bili短剧.json"
     },
     {
       "key": "XBPQ_葡萄",
       "name": "📽┃葡萄┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": {
         "数组": "class=\"stui-vodlist__box&&</li",
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
@@ -1359,8 +1359,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XYQHiker",
-      "jar": "http://oneone.dynv6.net:9999/viplib/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "http://oneone.dynv6.net:9999/viplib/VS影院.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/VS影院.json"
     },
     {
       "key": "csp_XBPQ_aoaotv",
@@ -1370,7 +1370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": {
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
@@ -1383,7 +1383,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
       "ext": {
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
@@ -1395,10 +1395,10 @@
       "name": "📽┃嗷奇┃短剧",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
       "ext": {
         "规则名": "短剧网",
@@ -1469,7 +1469,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"http://oneone.dynv6.net:9999/viplib/yydf",
+      "jar":"https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yydf",
       "filterable": 1,
       "ext": {
         "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
@@ -1490,7 +1490,7 @@
       "name": "🌸┃蓝猫┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
     {
@@ -1501,7 +1501,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://oneone.dynv6.net:9999/viplib/动漫巴士.json"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/动漫巴士.json"
     },
     {
       "key": "csp_MeijuTT",
@@ -1512,7 +1512,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": "csp_MeijuMi",
@@ -1523,7 +1523,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/xyq.jar"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xyq.jar"
     },
     {
       "key": " 在线┃直播1",
@@ -1542,7 +1542,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/pyhuya.py"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/pyhuya.py"
     },
     {
       "key": "csp_Bili_Meinvw",
@@ -1552,8 +1552,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/meinv.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/meinv.json"
     },
     {
       "key": "csp_Bili_Nvtuan",
@@ -1563,8 +1563,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/nvtuan.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/nvtuan.json"
     },
     {
       "key": "短视频",
@@ -1574,8 +1574,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/短视频聚合.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/短视频聚合.json"
     },
     {
       "key": "MV_vod",
@@ -1594,8 +1594,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/mtv.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/mtv.json"
     },
     {
       "key": "csp_Bili_Yinl2",
@@ -1605,8 +1605,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/yinyue.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/yinyue.json"
     },
     {
       "key": "MV_vod",
@@ -1629,8 +1629,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/搭讪.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/搭讪.json"
     },
     {
       "key": "csp_Bili__dapei",
@@ -1640,8 +1640,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/搭配.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/搭配.json"
     },
     {
       "key": "csp_Bili_youer",
@@ -1651,8 +1651,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/youer.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/youer.json"
     },
     {
       "key": "csp_Bili_xiaoxue",
@@ -1662,8 +1662,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/xiaoxue.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xiaoxue.json"
     },
     {
       "key": "csp_Bili_czxx",
@@ -1673,8 +1673,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/chuzhong.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/chuzhong.json"
     },
     {
       "key": "csp_Bili_gaozxx",
@@ -1684,8 +1684,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/gaozhong.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/gaozhong.json"
     },
 
     {
@@ -1696,7 +1696,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://oneone.dynv6.net:9999/viplib/qie.py"
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/qie.py"
     },
     {
       "key": "csp_Bili_zyy",
@@ -1706,8 +1706,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/zyy.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/zyy.json"
     },
     {
       "key": "csp_Bili_xuqu1",
@@ -1717,8 +1717,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/xiqu.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xiqu.json"
     },
     {
       "key": "csp_Bili_TYjs",
@@ -1728,8 +1728,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/tiyu.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/tiyu.json"
     },
     {
       "key": "csp_Bili_xiangsh",
@@ -1739,8 +1739,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "http://oneone.dynv6.net:9999/viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://oneone.dynv6.net:9999/viplib/xiaopin.json"
+      "jar": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://ghproxy.com/https://github.com/w2594190605/fuzhi/blob/main/1/xiaopin.json"
     }
   ],
   "lives": [
@@ -2414,4 +2414,4 @@
   ],
   "wallpaper": "https://tool.weetai.cn/api",
   "warningText": "防止失效 关注公众号:『码点小干货』,接口免费整理维护",
-  "spider": "https://github.com/w2594190605/tvbox/blob/main/sub/one.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
+  "spider": "https://ghproxy.com/https://github.com/w2594190605/tvbox/blob/main/sub/one.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
