@@ -34,7 +34,8 @@
                 "type": "rect",
                 "ratio": 1.33
             }
-        }，{
+        }，
+    {
             "key": "php全集",
             "name": "php全集",
             "type": 4,
