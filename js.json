@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+"spider":"./jar/fan.txt;md5;6b0051c85a0e72a480f4bec56b8dd22f",
 "lives":[
 {"name":"live","type":0,"url":"./tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
